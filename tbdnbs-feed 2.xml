@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+  <channel>
+    <title>The Brisbane Drum &amp; B4ZZZ Show Archive</title>
+    <link>https://archive.org/details/tbdnbs-season4</link>
+    <description>The Brisbane Drum &amp; B4ZZZ Show - Seasons 2, 3 and 4</description>
+    <language>en-au</language>
+    <itunes:author>TBDNBS</itunes:author>
+    <itunes:category text="Music"/>
+    <itunes:image href="https://archive.org/download/tbdnbs-season4/320073993_530414889015731_8667892062276303735_n.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+
+    <item>
+      <title>S2E01 w/ Skitzoid</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E01 w/ Skitzoid</description>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E01%20w%E2%A7%B8%20Skitzoid.mp3" length="115220897" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:01</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e01</guid>
+    </item>
+    <item>
+      <title>S2E02 w/ Green Eggs &amp; Sam</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E02 w/ Green Eggs &amp; Sam</description>
+      <pubDate>Sun, 19 Jul 2026 00:01:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E02%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e02</guid>
+    </item>
+    <item>
+      <title>S2E03 w/ Reegze ft. Shinobi Yurei</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E03 w/ Reegze ft. Shinobi Yurei</description>
+      <pubDate>Sun, 19 Jul 2026 00:02:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E03%20w%E2%A7%B8%20Reegze%20ft.%20Shinobi%20Yurei.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e03</guid>
+    </item>
+    <item>
+      <title>S2E04 w/ SAMp3 Best of 2022 Megamix</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E04 w/ SAMp3 Best of 2022 Megamix</description>
+      <pubDate>Sun, 19 Jul 2026 00:03:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E04%20w%E2%A7%B8%20SAMp3%20Best%20of%202022%20Megamix.mp3" length="178860449" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:05:51</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e04</guid>
+    </item>
+    <item>
+      <title>S2E05 w/ Skitzoid ft. SAL</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E05 w/ Skitzoid ft. SAL</description>
+      <pubDate>Sun, 19 Jul 2026 00:04:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E05%20w%E2%A7%B8%20Skitzoid%20ft.%20SAL.mp3" length="115210866" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:01</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e05</guid>
+    </item>
+    <item>
+      <title>S2E06 w/ Green Eggs &amp; Sam ft. Hoppa</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E06 w/ Green Eggs &amp; Sam ft. Hoppa</description>
+      <pubDate>Sun, 19 Jul 2026 00:05:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E06%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam%20ft.%20Hoppa.mp3" length="288034660" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:01</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e06</guid>
+    </item>
+    <item>
+      <title>S2E07 w/ Reegze ft. Operon &amp; MC Sureshock</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E07 w/ Reegze ft. Operon &amp; MC Sureshock</description>
+      <pubDate>Sun, 19 Jul 2026 00:06:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E07%20w%E2%A7%B8%20Reegze%20ft.%20Operon%20%26%20MC%20Sureshock.mp3" length="288000000" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e07</guid>
+    </item>
+    <item>
+      <title>S2E08 w/ SAMp3 ft. Kate Savage</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E08 w/ SAMp3 ft. Kate Savage</description>
+      <pubDate>Sun, 19 Jul 2026 00:07:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E08%20w%E2%A7%B8%20SAMp3%20ft.%20Kate%20Savage.mp3" length="158232361" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e08</guid>
+    </item>
+    <item>
+      <title>S2E09 w/ Skitzoid ft. Ms Magoo</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E09 w/ Skitzoid ft. Ms Magoo</description>
+      <pubDate>Sun, 19 Jul 2026 00:08:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E09%20w%E2%A7%B8%20Skitzoid%20ft.%20Ms%20Magoo.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e09</guid>
+    </item>
+    <item>
+      <title>S2E10 w/ Green Eggs &amp; Sam ft. Talisman</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E10 w/ Green Eggs &amp; Sam ft. Talisman</description>
+      <pubDate>Sun, 19 Jul 2026 00:09:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E10%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam%20ft.%20Talisman.mp3" length="144062637" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:53</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e10</guid>
+    </item>
+    <item>
+      <title>S2E11 w/ Reegze ft. Komodo - Get to Know Nick Beecham</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E11 w/ Reegze ft. Komodo - Get to Know Nick Beecham</description>
+      <pubDate>Sun, 19 Jul 2026 00:10:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E11%20w%E2%A7%B8%20Reegze%20ft.%20Komodo%20-%20Get%20to%20Know%20Nick%20Beecham.mp3" length="288000000" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e11</guid>
+    </item>
+    <item>
+      <title>S2E12 w/ SAMp3 ft. SLK &amp; NAM SHUB of ENKI</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E12 w/ SAMp3 ft. SLK &amp; NAM SHUB of ENKI</description>
+      <pubDate>Sun, 19 Jul 2026 00:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E12%20w%E2%A7%B8%20SAMp3%20ft.%20SLK%20%26%20NAM%20SHUB%20of%20ENKI.mp3" length="149635477" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e12</guid>
+    </item>
+    <item>
+      <title>S2E13 w/ Skitzoid ft. Jane Doe</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E13 w/ Skitzoid ft. Jane Doe</description>
+      <pubDate>Sun, 19 Jul 2026 00:12:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E13%20w%E2%A7%B8%20Skitzoid%20ft.%20Jane%20Doe.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e13</guid>
+    </item>
+    <item>
+      <title>S2E14 w/ Green Eggs &amp; Sam ft. Synonymix</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E14 w/ Green Eggs &amp; Sam ft. Synonymix</description>
+      <pubDate>Sun, 19 Jul 2026 00:13:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E14%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam%20ft.%20Synonymix.mp3" length="288096325" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e14</guid>
+    </item>
+    <item>
+      <title>S2E15 w/ Reegze ft. Neptun3</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E15 w/ Reegze ft. Neptun3</description>
+      <pubDate>Sun, 19 Jul 2026 00:14:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E15%20w%E2%A7%B8%20Reegze%20ft.%20Neptun3.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e15</guid>
+    </item>
+    <item>
+      <title>S2E16 w/ SAMp3 ft. Static and Lincoln &amp; Tommy RO</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E16 w/ SAMp3 ft. Static and Lincoln &amp; Tommy RO</description>
+      <pubDate>Sun, 19 Jul 2026 00:15:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E16%20w%E2%A7%B8%20SAMp3%20ft.%20Static%20and%20Lincoln%20%26%20Tommy%20RO.mp3" length="150101913" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:06:43</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e16</guid>
+    </item>
+    <item>
+      <title>S2E17 w/ Skitzoid ft. Mannerism</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E17 w/ Skitzoid ft. Mannerism</description>
+      <pubDate>Sun, 19 Jul 2026 00:16:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E17%20w%E2%A7%B8%20Skitzoid%20ft.%20Mannerism.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e17</guid>
+    </item>
+    <item>
+      <title>S2E18 w/ Green Eggs &amp; Sam ft. ASHEZ</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E18 w/ Green Eggs &amp; Sam ft. ASHEZ</description>
+      <pubDate>Sun, 19 Jul 2026 00:17:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E18%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam%20ft.%20ASHEZ.mp3" length="288003325" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e18</guid>
+    </item>
+    <item>
+      <title>S2E19 w/ Reegze ft. Sk4nk, Agent 57 &amp; Bosco</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E19 w/ Reegze ft. Sk4nk, Agent 57 &amp; Bosco</description>
+      <pubDate>Sun, 19 Jul 2026 00:18:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E19%20w%E2%A7%B8%20Reegze%20ft.%20Sk4nk%2C%20Agent%2057%20%26%20Bosco.mp3" length="288055378" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:01</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e19</guid>
+    </item>
+    <item>
+      <title>S2E20 w/ SAMp3 ft. ERTHER</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E20 w/ SAMp3 ft. ERTHER</description>
+      <pubDate>Sun, 19 Jul 2026 00:19:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E20%20w%E2%A7%B8%20SAMp3%20ft.%20ERTHER.mp3" length="155551298" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e20</guid>
+    </item>
+    <item>
+      <title>S2E21 w/ Skitzoid, SAMp3, Synonymix &amp; Green Eggs &amp; Sam</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E21 w/ Skitzoid, SAMp3, Synonymix &amp; Green Eggs &amp; Sam</description>
+      <pubDate>Sun, 19 Jul 2026 00:20:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E21%20w%E2%A7%B8%20Skitzoid%2C%20SAMp3%2C%20Synonymix%20%26%20Green%20Eggs%20%26%20Sam.mp3" length="117819768" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:02:44</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e21</guid>
+    </item>
+    <item>
+      <title>S2E22 w/ Green Eggs &amp; Sam ft. Koya Dubz</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E22 w/ Green Eggs &amp; Sam ft. Koya Dubz</description>
+      <pubDate>Sun, 19 Jul 2026 00:21:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E22%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam%20ft.%20Koya%20Dubz.mp3" length="287974072" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:59</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e22</guid>
+    </item>
+    <item>
+      <title>S2E23 w/ Reegze ft. Covet DnB, New Forms &amp; Agent 57</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E23 w/ Reegze ft. Covet DnB, New Forms &amp; Agent 57</description>
+      <pubDate>Sun, 19 Jul 2026 00:22:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E23%20w%E2%A7%B8%20Reegze%20ft.%20Covet%20DnB%2C%20New%20Forms%20%26%20Agent%2057.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e23</guid>
+    </item>
+    <item>
+      <title>S2E24 w/ SAMp3 ft. Floor Twenty</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E24 w/ SAMp3 ft. Floor Twenty</description>
+      <pubDate>Sun, 19 Jul 2026 00:23:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E24%20w%E2%A7%B8%20SAMp3%20ft.%20Floor%20Twenty.mp3" length="288900480" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:23</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e24</guid>
+    </item>
+    <item>
+      <title>S2E25 w/ Skitzoid ft. Pluvio</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E25 w/ Skitzoid ft. Pluvio</description>
+      <pubDate>Sun, 19 Jul 2026 00:24:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E25%20w%E2%A7%B8%20Skitzoid%20ft.%20Pluvio.mp3" length="127124375" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:12:25</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e25</guid>
+    </item>
+    <item>
+      <title>S2E26 w/ Green Eggs &amp; Sam ft. Ladi Haze</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E26 w/ Green Eggs &amp; Sam ft. Ladi Haze</description>
+      <pubDate>Sun, 19 Jul 2026 00:25:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E26%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam%20ft.%20Ladi%20Haze.mp3" length="288049305" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:01</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e26</guid>
+    </item>
+    <item>
+      <title>S2E27 w/ Reegze ft. Maree J, Roger G &amp; Rukus</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E27 w/ Reegze ft. Maree J, Roger G &amp; Rukus</description>
+      <pubDate>Sun, 19 Jul 2026 00:26:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E27%20w%E2%A7%B8%20Reegze%20ft.%20Maree%20J%2C%20Roger%20G%20%26%20Rukus.mp3" length="288014627" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e27</guid>
+    </item>
+    <item>
+      <title>S2E28 w/ De La Haye - New Host + Farewell SAMp3</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E28 w/ De La Haye - New Host + Farewell SAMp3</description>
+      <pubDate>Sun, 19 Jul 2026 00:27:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E28%20w%E2%A7%B8%20De%20La%20Haye%20-%20New%20Host%20%2B%20Farewell%20SAMp3.mp3" length="147671815" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e28</guid>
+    </item>
+    <item>
+      <title>S2E29 w/ Skitzoid ft. Transforma</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E29 w/ Skitzoid ft. Transforma</description>
+      <pubDate>Sun, 19 Jul 2026 00:28:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E29%20w%E2%A7%B8%20Skitzoid%20ft.%20Transforma.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e29</guid>
+    </item>
+    <item>
+      <title>S2E30 w/ Green Eggs &amp; Sam ft. Koya Dubz &amp; Talisman</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E30 w/ Green Eggs &amp; Sam ft. Koya Dubz &amp; Talisman</description>
+      <pubDate>Sun, 19 Jul 2026 00:29:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E30%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam%20ft.%20Koya%20Dubz%20%26%20Talisman.mp3" length="165317993" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:01</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e30</guid>
+    </item>
+    <item>
+      <title>S2E31 w/ Reegze ft. Client, Kranky &amp; Trajectory</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E31 w/ Reegze ft. Client, Kranky &amp; Trajectory</description>
+      <pubDate>Sun, 19 Jul 2026 00:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E31%20w%E2%A7%B8%20Reegze%20ft.%20Client%2C%20Kranky%20%26%20Trajectory.mp3" length="288055378" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:01</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e31</guid>
+    </item>
+    <item>
+      <title>S2E32 w/ De La Haye ft. CHRIS MUNKY</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E32 w/ De La Haye ft. CHRIS MUNKY</description>
+      <pubDate>Sun, 19 Jul 2026 00:31:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E32%20w%E2%A7%B8%20De%20La%20Haye%20ft.%20CHRIS%20MUNKY.mp3" length="161467274" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:24</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e32</guid>
+    </item>
+    <item>
+      <title>S2E33 w/ Skitzoid ft. VILEN</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E33 w/ Skitzoid ft. VILEN</description>
+      <pubDate>Sun, 19 Jul 2026 00:32:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E33%20w%E2%A7%B8%20Skitzoid%20ft.%20VILEN.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e33</guid>
+    </item>
+    <item>
+      <title>S2E34 w/ Green Eggs &amp; Sam</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E34 w/ Green Eggs &amp; Sam</description>
+      <pubDate>Sun, 19 Jul 2026 00:33:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E34%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam.mp3" length="166209535" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e34</guid>
+    </item>
+    <item>
+      <title>S2E35 w/ Reegze ft. Helmi, Mannerism &amp; Kranky</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E35 w/ Reegze ft. Helmi, Mannerism &amp; Kranky</description>
+      <pubDate>Sun, 19 Jul 2026 00:34:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E35%20w%E2%A7%B8%20Reegze%20ft.%20Helmi%2C%20Mannerism%20%26%20Kranky.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e35</guid>
+    </item>
+    <item>
+      <title>S2E36 w/ De La Haye ft. Collette Warren (UK)</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E36 w/ De La Haye ft. Collette Warren (UK)</description>
+      <pubDate>Sun, 19 Jul 2026 00:35:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E36%20w%E2%A7%B8%20De%20La%20Haye%20ft.%20Collette%20Warren%20%28UK%29.mp3" length="167725557" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e36</guid>
+    </item>
+    <item>
+      <title>S2E37 w/ Skitzoid ft. Umahh</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E37 w/ Skitzoid ft. Umahh</description>
+      <pubDate>Sun, 19 Jul 2026 00:36:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E37%20w%E2%A7%B8%20Skitzoid%20ft.%20Umahh.mp3" length="115216718" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:01</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e37</guid>
+    </item>
+    <item>
+      <title>S2E38 w/ Green Eggs &amp; Sam ft. SAMp3</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E38 w/ Green Eggs &amp; Sam ft. SAMp3</description>
+      <pubDate>Sun, 19 Jul 2026 00:37:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E38%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam%20ft.%20SAMp3.mp3" length="172963848" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e38</guid>
+    </item>
+    <item>
+      <title>S2E39 w/ Reegze ft. Obzerve</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E39 w/ Reegze ft. Obzerve</description>
+      <pubDate>Sun, 19 Jul 2026 00:38:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E39%20w%E2%A7%B8%20Reegze%20ft.%20Obzerve.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e39</guid>
+    </item>
+    <item>
+      <title>S2E40 w/ De La Haye ft. oDD it T aka Native Dog</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E40 w/ De La Haye ft. oDD it T aka Native Dog</description>
+      <pubDate>Sun, 19 Jul 2026 00:39:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E40%20w%E2%A7%B8%20De%20La%20Haye%20ft.%20oDD%20it%20T%20aka%20Native%20Dog.mp3" length="169300160" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e40</guid>
+    </item>
+    <item>
+      <title>S2E41 w/ Skitzoid ft. DrewId</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E41 w/ Skitzoid ft. DrewId</description>
+      <pubDate>Sun, 19 Jul 2026 00:40:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E41%20w%E2%A7%B8%20Skitzoid%20ft.%20DrewId.mp3" length="115197074" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e41</guid>
+    </item>
+    <item>
+      <title>S2E42 w/ Green Eggs &amp; Sam</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E42 w/ Green Eggs &amp; Sam</description>
+      <pubDate>Sun, 19 Jul 2026 00:41:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E42%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam.mp3" length="167893260" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:57:15</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e42</guid>
+    </item>
+    <item>
+      <title>S2E43 w/ Reegze ft. Nomadix, Theromoore &amp; Obzerve</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E43 w/ Reegze ft. Nomadix, Theromoore &amp; Obzerve</description>
+      <pubDate>Sun, 19 Jul 2026 00:42:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E43%20w%E2%A7%B8%20Reegze%20ft.%20Nomadix%2C%20Theromoore%20%26%20Obzerve.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e43</guid>
+    </item>
+    <item>
+      <title>S2E44 w/ De La Haye ft. SAMIE A + SAMp3</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E44 w/ De La Haye ft. SAMIE A + SAMp3</description>
+      <pubDate>Sun, 19 Jul 2026 00:43:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E44%20w%E2%A7%B8%20De%20La%20Haye%20ft.%20SAMIE%20A%20%2B%20SAMp3.mp3" length="151644195" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:08:14</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e44</guid>
+    </item>
+    <item>
+      <title>S2E45 w/ Skitzoid ft. Pauly</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E45 w/ Skitzoid ft. Pauly</description>
+      <pubDate>Sun, 19 Jul 2026 00:44:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E45%20w%E2%A7%B8%20Skitzoid%20ft.%20Pauly.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e45</guid>
+    </item>
+    <item>
+      <title>S2E46 w/ Reegze - 8Ball Audio (Sneak Peak) + Heavy Breakcore Jungle Selections</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E46 w/ Reegze - 8Ball Audio (Sneak Peak) + Heavy Breakcore Jungle Selections</description>
+      <pubDate>Sun, 19 Jul 2026 00:45:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E46%20w%E2%A7%B8%20Reegze%20%20-%208Ball%20Audio%20%28Sneak%20Peak%29%20%2B%20Heavy%20Breakcore%20Jungle%20Selections.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e46</guid>
+    </item>
+    <item>
+      <title>S2E47 w/ Skitzoid ft. Kurrupt</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E47 w/ Skitzoid ft. Kurrupt</description>
+      <pubDate>Sun, 19 Jul 2026 00:46:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E47%20w%E2%A7%B8%20Skitzoid%20ft.%20Kurrupt.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e47</guid>
+    </item>
+    <item>
+      <title>S2E48 w/ Green Eggs &amp; Sam Feat. D.EMPTY &amp; Cuttle</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S2E48 w/ Green Eggs &amp; Sam Feat. D.EMPTY &amp; Cuttle</description>
+      <pubDate>Sun, 19 Jul 2026 00:47:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season2/home%2Fsam%2FDocuments%2FS2%2FS2%20Conv%2FTBDNBS%20S2E48%20w%E2%A7%B8%20Green%20Eggs%20%26%20Sam%20Feat.%20D.EMPTY%20%26%20Cuttle.mp3" length="179823955" type="audio/mpeg"/>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:58</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s2e48</guid>
+    </item>
+    <item>
+      <title>S3E01 w/ Skitzoid</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E01 w/ Skitzoid</description>
+      <pubDate>Sun, 19 Jul 2026 00:48:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/TBDNBS%20S3E01%20w%E2%A7%B8%20Skitzoid.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e01</guid>
+    </item>
+    <item>
+      <title>S3E02 w/ De La Haye ft. ZERO THEORY EP &amp; DE LA HAYE live at Deliverance 2023</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E02 w/ De La Haye ft. ZERO THEORY EP &amp; DE LA HAYE live at Deliverance 2023</description>
+      <pubDate>Sun, 19 Jul 2026 00:49:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E02%20w%E2%A7%B8%20De%20La%20Haye%20ft.%20ZERO%20THEORY%20EP%20%26%20DE%20LA%20HAYE%20live%20at%20Deliverance%202023.mp3" length="178457146" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:01:46</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e02</guid>
+    </item>
+    <item>
+      <title>S3E03 w/ Samp3</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E03 w/ Samp3</description>
+      <pubDate>Sun, 19 Jul 2026 00:50:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E03%20w%E2%A7%B8%20Samp3.mp3" length="288006183" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e03</guid>
+    </item>
+    <item>
+      <title>S3E04 w/ Obzerve ft. Skitzoid</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E04 w/ Obzerve ft. Skitzoid</description>
+      <pubDate>Sun, 19 Jul 2026 00:51:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E04%20w%E2%A7%B8%20Obzerve%20ft.%20Skitzoid.mp3" length="288687542" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:17</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e04</guid>
+    </item>
+    <item>
+      <title>S3E05 w/ Talisman</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E05 w/ Talisman</description>
+      <pubDate>Sun, 19 Jul 2026 00:52:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E05%20w%E2%A7%B8%20Talisman.mp3" length="177780764" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e05</guid>
+    </item>
+    <item>
+      <title>S3E06 w/ Keep Calling Me That ft. Reegze</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E06 w/ Keep Calling Me That ft. Reegze</description>
+      <pubDate>Sun, 19 Jul 2026 00:53:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E06%20w%E2%A7%B8%20Keep%20Calling%20Me%20That%20ft.%20Reegze.mp3" length="295501822" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:03:08</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e06</guid>
+    </item>
+    <item>
+      <title>S3E07 w/ De La Haye ft. ZERO THEORY + DADDY LONGLEGS - Elements Festival Special</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E07 w/ De La Haye ft. ZERO THEORY + DADDY LONGLEGS - Elements Festival Special</description>
+      <pubDate>Sun, 19 Jul 2026 00:54:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E07%20w%E2%A7%B8%20De%20La%20Haye%20ft.%20ZERO%20THEORY%20%2B%20DADDY%20LONGLEGS%20-%20Elements%20Festival%20Special.mp3" length="166010292" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:59</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e07</guid>
+    </item>
+    <item>
+      <title>S3E08 w/ D.Empty</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E08 w/ D.Empty</description>
+      <pubDate>Sun, 19 Jul 2026 00:55:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E08%20w%E2%A7%B8%20D.Empty.mp3" length="172806606" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e08</guid>
+    </item>
+    <item>
+      <title>S3E09 w/ SAMp3 &amp; Skitzoid - Locals Show</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E09 w/ SAMp3 &amp; Skitzoid - Locals Show</description>
+      <pubDate>Sun, 19 Jul 2026 00:56:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E09%20w%E2%A7%B8%20SAMp3%20%26%20Skitzoid%20-%20Locals%20Show.mp3" length="164184618" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e09</guid>
+    </item>
+    <item>
+      <title>S3E10 w/ Obzerve ft. Jaise, Data Roaming, Neptune &amp; more</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E10 w/ Obzerve ft. Jaise, Data Roaming, Neptune &amp; more</description>
+      <pubDate>Sun, 19 Jul 2026 00:57:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E10%20w%E2%A7%B8%20Obzerve%20ft.%20Jaise%2C%20Data%20Roaming%2C%20Neptune%20%26%20more.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e10</guid>
+    </item>
+    <item>
+      <title>S3E11 w/ GREEN EGGS &amp; SAM ft. MARTIAN</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E11 w/ GREEN EGGS &amp; SAM ft. MARTIAN</description>
+      <pubDate>Sun, 19 Jul 2026 00:58:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E11%20W%E2%A7%B8%20GREEN%20EGGS%20%26%20SAM%20ft.%20MARTIAN.mp3" length="172414043" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:01</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e11</guid>
+    </item>
+    <item>
+      <title>S3E12 w/ keepcallingmethat ft. Felix</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E12 w/ keepcallingmethat ft. Felix</description>
+      <pubDate>Sun, 19 Jul 2026 00:59:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E12%20w%E2%A7%B8%20keepcallingmethat%20ft.%20Felix.mp3" length="291714703" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:01:33</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e12</guid>
+    </item>
+    <item>
+      <title>S3E13 w/ D.Empty ft. Minoix &amp; True Crime</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E13 w/ D.Empty ft. Minoix &amp; True Crime</description>
+      <pubDate>Sun, 19 Jul 2026 01:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E13%20w%E2%A7%B8%20D.Empty%20ft.%20Minoix%20%26%20True%20Crime.mp3" length="172019791" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:05</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e13</guid>
+    </item>
+    <item>
+      <title>S3E14 w/ Delahaye tf. Filthy Philp, Skitzoid, Tassone, PAB &amp; Outrage</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E14 w/ Delahaye tf. Filthy Philp, Skitzoid, Tassone, PAB &amp; Outrage</description>
+      <pubDate>Sun, 19 Jul 2026 01:01:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E14%20w%E2%A7%B8%20Delahaye%20tf.%20Filthy%20Philp%2C%20Skitzoid%2C%20Tassone%2C%20PAB%20%26%20Outrage.mp3" length="292534856" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:01:53</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e14</guid>
+    </item>
+    <item>
+      <title>S3E15 w/ SAMp3 ft. Madison Smee</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E15 w/ SAMp3 ft. Madison Smee</description>
+      <pubDate>Sun, 19 Jul 2026 01:02:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E15%20w%E2%A7%B8%20SAMp3%20ft.%20Madison%20Smee.mp3" length="113412313" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e15</guid>
+    </item>
+    <item>
+      <title>S3E16 w/ Obzerve ft. Grizzabella and Ceadie</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E16 w/ Obzerve ft. Grizzabella and Ceadie</description>
+      <pubDate>Sun, 19 Jul 2026 01:03:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E16%20w%E2%A7%B8%20Obzerve%20ft.%20Grizzabella%20and%20Ceadie.mp3" length="287998954" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e16</guid>
+    </item>
+    <item>
+      <title>S3E17 w/ Reegze &amp; Skitzoid</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E17 w/ Reegze &amp; Skitzoid</description>
+      <pubDate>Sun, 19 Jul 2026 01:04:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E17%20w%E2%A7%B8%20Reegze%20%26%20Skitzoid.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e17</guid>
+    </item>
+    <item>
+      <title>S3E18 w/ keepcallingmethat &amp; Integer</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E18 w/ keepcallingmethat &amp; Integer</description>
+      <pubDate>Sun, 19 Jul 2026 01:05:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E18%20w%E2%A7%B8%20keepcallingmethat%20%26%20Integer.mp3" length="148896805" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:02:16</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e18</guid>
+    </item>
+    <item>
+      <title>S3E19 w/ D.Empty ft. De La Haye &amp; Defect</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E19 w/ D.Empty ft. De La Haye &amp; Defect</description>
+      <pubDate>Sun, 19 Jul 2026 01:06:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E19%20w%E2%A7%B8%20D.Empty%20ft.%20De%20La%20Haye%20%26%20Defect.mp3" length="172806606" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e19</guid>
+    </item>
+    <item>
+      <title>S3E20 w/ De La Haye ft. Señor Tasty Taste [1800525838]</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E20 w/ De La Haye ft. Señor Tasty Taste [1800525838]</description>
+      <pubDate>Sun, 19 Jul 2026 01:07:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E20%20w%E2%A7%B8%20De%20La%20Haye%20ft.%20Se%C3%B1or%20Tasty%20Taste%20%5B1800525838%5D.mp3" length="141931164" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e20</guid>
+    </item>
+    <item>
+      <title>S3E21 w/ SAMp3 Outlook Origins Mix + Neuro Breakout ft. Skitzoid</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E21 w/ SAMp3 Outlook Origins Mix + Neuro Breakout ft. Skitzoid</description>
+      <pubDate>Sun, 19 Jul 2026 01:08:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E21%20w%E2%A7%B8%20SAMp3%20Outlook%20Origins%20Mix%20%2B%20Neuro%20Breakout%20ft.%20Skitzoid.mp3" length="288006016" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e21</guid>
+    </item>
+    <item>
+      <title>S3E22 w/ Obzerve ft. Dread Maiden &amp; Amante Dubs</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E22 w/ Obzerve ft. Dread Maiden &amp; Amante Dubs</description>
+      <pubDate>Sun, 19 Jul 2026 01:09:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E22%20w%E2%A7%B8%20Obzerve%20ft.%20Dread%20Maiden%20%26%20Amante%20Dubs.mp3" length="288080456" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e22</guid>
+    </item>
+    <item>
+      <title>S3E23 w/ GREEN EGGS &amp; SAM, TALISMAN &amp; MARTIAN</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E23 w/ GREEN EGGS &amp; SAM, TALISMAN &amp; MARTIAN</description>
+      <pubDate>Sun, 19 Jul 2026 01:10:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E23%20w%E2%A7%B8%20GREEN%20EGGS%20%26%20SAM%2C%20TALISMAN%20%26%20MARTIAN.mp3" length="156032067" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e23</guid>
+    </item>
+    <item>
+      <title>S3E24 w/ Keep Calling Me That ft. Equity Sessions</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E24 w/ Keep Calling Me That ft. Equity Sessions</description>
+      <pubDate>Sun, 19 Jul 2026 01:11:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E24%20w%E2%A7%B8%20Keep%20Calling%20Me%20That%20ft.%20Equity%20Sessions.mp3" length="296205014" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:03:25</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e24</guid>
+    </item>
+    <item>
+      <title>S3E25 w/ D.Empty ft. Obani &amp; Sunken Forest</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E25 w/ D.Empty ft. Obani &amp; Sunken Forest</description>
+      <pubDate>Sun, 19 Jul 2026 01:12:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E25%20w%E2%A7%B8%20D.Empty%20ft.%20Obani%20%26%20Sunken%20Forest.mp3" length="157808986" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e25</guid>
+    </item>
+    <item>
+      <title>S3E26 w/ SAMp3, Reegze &amp; Obzerve</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E26 w/ SAMp3, Reegze &amp; Obzerve</description>
+      <pubDate>Sun, 19 Jul 2026 01:13:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E26%20w%E2%A7%B8%20SAMp3%2C%20Reegze%20%26%20Obzerve.mp3" length="288006183" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e26</guid>
+    </item>
+    <item>
+      <title>S3E27 w/ Obzerve ft. Vince Rollin &amp; D Tech, Tactical Aspect and SAL</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E27 w/ Obzerve ft. Vince Rollin &amp; D Tech, Tactical Aspect and SAL</description>
+      <pubDate>Sun, 19 Jul 2026 01:14:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E27%20w%E2%A7%B8Obzerve%20ft.%20Vince%20Rollin%20%26%20D%20Tech%2C%20Tactical%20Aspect%20and%20SAL.mp3" length="174596542" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:32</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e27</guid>
+    </item>
+    <item>
+      <title>S3E28 w/ SAMp3 ft. Inguerzon &amp; Filthy Philp</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E28 w/ SAMp3 ft. Inguerzon &amp; Filthy Philp</description>
+      <pubDate>Sun, 19 Jul 2026 01:15:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E28%20w%E2%A7%B8%20SAMp3%20ft.%20Inguerzon%20%26%20Filthy%20Philp.mp3" length="288006183" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e28</guid>
+    </item>
+    <item>
+      <title>S3E29 w/ De La Haye ft. CUTTLE</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E29 w/ De La Haye ft. CUTTLE</description>
+      <pubDate>Sun, 19 Jul 2026 01:16:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E29%20w%E2%A7%B8%20De%20La%20Haye%20ft.%20CUTTLE.mp3" length="171353965" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e29</guid>
+    </item>
+    <item>
+      <title>S3E30 w/ Obzerve ft. KreliaS and Australien</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E30 w/ Obzerve ft. KreliaS and Australien</description>
+      <pubDate>Sun, 19 Jul 2026 01:17:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E30%20w%E2%A7%B8%20Obzerve%20ft.%20KreliaS%20and%20Australien.mp3" length="288001044" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e30</guid>
+    </item>
+    <item>
+      <title>S3E31 w/ Skitzoid ft. Inspectah</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E31 w/ Skitzoid ft. Inspectah</description>
+      <pubDate>Sun, 19 Jul 2026 01:18:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E31%20w%E2%A7%B8%20Skitzoid%20ft.%20Inspectah.mp3" length="175499771" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:58</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e31</guid>
+    </item>
+    <item>
+      <title>S3E32 w/ Skitzoid ft. Eputty</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E32 w/ Skitzoid ft. Eputty</description>
+      <pubDate>Sun, 19 Jul 2026 01:19:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E32%20w%E2%A7%B8%20Skitzoid%20ft.%20Eputty.mp3" length="115199164" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e32</guid>
+    </item>
+    <item>
+      <title>S3E33 w/ D.Empty ft. GIG &amp; Synonymix</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E33 w/ D.Empty ft. GIG &amp; Synonymix</description>
+      <pubDate>Sun, 19 Jul 2026 01:20:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E33%20w%E2%A7%B8%20D.Empty%20ft.%20GIG%20%26%20Synonymix.mp3" length="168757144" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:17</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e33</guid>
+    </item>
+    <item>
+      <title>S3E34 w/ Obzerve ft. DJ Enga, Filthy Philp, Jaise &amp; Synetik</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E34 w/ Obzerve ft. DJ Enga, Filthy Philp, Jaise &amp; Synetik</description>
+      <pubDate>Sun, 19 Jul 2026 01:21:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E34%20w%E2%A7%B8%20Obzerve%20ft.%20DJ%20Enga%2C%20Filthy%20Philp%2C%20Jaise%20%26%20Synetik.mp3" length="288114937" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>34</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:03</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e34</guid>
+    </item>
+    <item>
+      <title>S3E35 w/ SAMp3 ft. OUTRAGE</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E35 w/ SAMp3 ft. OUTRAGE</description>
+      <pubDate>Sun, 19 Jul 2026 01:22:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E35%20w%E2%A7%B8%20SAMp3%20ft.%20OUTRAGE.mp3" length="156531469" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e35</guid>
+    </item>
+    <item>
+      <title>S3E36 w/ De La Haye ft. Simbie</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E36 w/ De La Haye ft. Simbie</description>
+      <pubDate>Sun, 19 Jul 2026 01:23:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E36%20w%E2%A7%B8%20De%20La%20Haye%20ft.%20Simbie.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e36</guid>
+    </item>
+    <item>
+      <title>S3E37 w/ D.Empty ft. Convergence &amp; DKK</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E37 w/ D.Empty ft. Convergence &amp; DKK</description>
+      <pubDate>Sun, 19 Jul 2026 01:24:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E37%20w%E2%A7%B8%20D.Empty%20ft.%20Convergence%20%26%20DKK.mp3" length="175275118" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:02:50</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e37</guid>
+    </item>
+    <item>
+      <title>S3E38 w/ Obzerve ft. DJ Hybrid</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E38 w/ Obzerve ft. DJ Hybrid</description>
+      <pubDate>Sun, 19 Jul 2026 01:25:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E38%20w%E2%A7%B8%20Obzerve%20ft.%20DJ%20Hybrid.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e38</guid>
+    </item>
+    <item>
+      <title>S3E39 w/ SAMp3 ft. Tempo Takeover w/ INSPECTAH + DTECH, CEADIE, JOSIE</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E39 w/ SAMp3 ft. Tempo Takeover w/ INSPECTAH + DTECH, CEADIE, JOSIE</description>
+      <pubDate>Sun, 19 Jul 2026 01:26:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E39%20w%E2%A7%B8%20SAMp3%20ft.%20Tempo%20Takeover%20w%E2%A7%B8%20INSPECTAH%20%2B%20DTECH%2C%20CEADIE%2C%20JOSIE.mp3" length="149812591" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:09:46</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e39</guid>
+    </item>
+    <item>
+      <title>S3E40 w/ SAMp3 ft. Paul Abad &amp; Ladi Haze</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E40 w/ SAMp3 ft. Paul Abad &amp; Ladi Haze</description>
+      <pubDate>Sun, 19 Jul 2026 01:27:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E40%20w%E2%A7%B8%20SAMp3%20ft.%20Paul%20Abad%20%26%20Ladi%20Haze.mp3" length="288006183" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e40</guid>
+    </item>
+    <item>
+      <title>S3E41 w/ D.Empty ft. Speedfreq</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E41 w/ D.Empty ft. Speedfreq</description>
+      <pubDate>Sun, 19 Jul 2026 01:28:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E41%20w%E2%A7%B8%20D.Empty%20ft.%20Speedfreq.mp3" length="172795340" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:59:59</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e41</guid>
+    </item>
+    <item>
+      <title>S3E42 w/ Obzerve</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E42 w/ Obzerve</description>
+      <pubDate>Sun, 19 Jul 2026 01:29:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E42%20w%E2%A7%B8%20Obzerve.mp3" length="288002088" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e42</guid>
+    </item>
+    <item>
+      <title>S3E43 w/ SAMp3 ft. Skitzoid - KINPHONICS Label Launch</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E43 w/ SAMp3 ft. Skitzoid - KINPHONICS Label Launch</description>
+      <pubDate>Sun, 19 Jul 2026 01:30:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E43%20w%E2%A7%B8%20SAMp3%20ft.%20Skitzoid%20-%20KINPHONICS%20Label%20Launch.mp3" length="115243885" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:03</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e43</guid>
+    </item>
+    <item>
+      <title>S3E44 w/ De La Haye - 2hr Post-Europe Mix Special</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E44 w/ De La Haye - 2hr Post-Europe Mix Special</description>
+      <pubDate>Sun, 19 Jul 2026 01:31:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E44%20w%E2%A7%B8%20De%20La%20Haye%20-%202hr%20Post-Europe%20Mix%20Special.mp3" length="168810503" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e44</guid>
+    </item>
+    <item>
+      <title>S3E45 w/ D.Empty ft. Operon &amp; Reegze</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E45 w/ D.Empty ft. Operon &amp; Reegze</description>
+      <pubDate>Sun, 19 Jul 2026 01:32:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E45%20w%E2%A7%B8%20D.Empty%20ft.%20Operon%20%26%20Reegze.mp3" length="182561233" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:08</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e45</guid>
+    </item>
+    <item>
+      <title>S3E46 w/ Obzerve ft. Komodo</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E46 w/ Obzerve ft. Komodo</description>
+      <pubDate>Sun, 19 Jul 2026 01:33:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E46%20w%E2%A7%B8%20Obzerve%20ft.%20Komodo.mp3" length="163849932" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:03</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e46</guid>
+    </item>
+    <item>
+      <title>S3E47 w/ SAMp3 ft. The Hex Soundsystem (Fingerz &amp; Aqui)</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E47 w/ SAMp3 ft. The Hex Soundsystem (Fingerz &amp; Aqui)</description>
+      <pubDate>Sun, 19 Jul 2026 01:34:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E47%20w%E2%A7%B8%20SAMp3%20ft.%20The%20Hex%20Soundsystem%20%28Fingerz%20%26%20Aqui%29.mp3" length="354537971" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:27:43</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e47</guid>
+    </item>
+    <item>
+      <title>S3E48 w/ De La Haye ft. Tinkerb9l, Bru from Deliverance, Sistym, Duos &amp; Eputty</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E48 w/ De La Haye ft. Tinkerb9l, Bru from Deliverance, Sistym, Duos &amp; Eputty</description>
+      <pubDate>Sun, 19 Jul 2026 01:35:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E48%20w%E2%A7%B8%20De%20La%20Haye%20ft.%20Tinkerb9l%2C%20Bru%20from%20Deliverance%2C%20Sistym%2C%20Duos%20%26%20Eputty.mp3" length="169999605" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e48</guid>
+    </item>
+    <item>
+      <title>S3E49 w/ D.Empty ft. SONA</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E49 w/ D.Empty ft. SONA</description>
+      <pubDate>Sun, 19 Jul 2026 01:36:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E49%20w%E2%A7%B8%20D.Empty%20ft.%20SONA.mp3" length="231311076" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:28</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e49</guid>
+    </item>
+    <item>
+      <title>S3E50 w/ Obzerve ft. Skitzonymix &amp; Victim (NZ)</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E50 w/ Obzerve ft. Skitzonymix &amp; Victim (NZ)</description>
+      <pubDate>Sun, 19 Jul 2026 01:37:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E50%20w%E2%A7%B8%20Obzerve%20ft.%20Skitzonymix%20%26%20Victim%20%28NZ%29.mp3" length="170390438" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e50</guid>
+    </item>
+    <item>
+      <title>S3E51 w/ SAMp3 Evil Zed Special Finale</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S3E51 w/ SAMp3 Evil Zed Special Finale</description>
+      <pubDate>Sun, 19 Jul 2026 01:38:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season3_202607/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS3%2FTBDNBS%20S3E51%20w%E2%A7%B8%20SAMp3%20Evil%20Zed%20Special%20Finale.mp3" length="288006183" type="audio/mpeg"/>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s3e51</guid>
+    </item>
+    <item>
+      <title>S4E01 w/ DE LA HAYE ft. MRS MAGOO + D.EMPTY</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E01 w/ DE LA HAYE ft. MRS MAGOO + D.EMPTY</description>
+      <pubDate>Sun, 19 Jul 2026 01:39:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E01%20w%E2%A7%B8%20DE%20LA%20HAYE%20ft.%20MRS%20MAGOO%20%2B%20D.EMPTY.mp3" length="178589615" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:01:34</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e01</guid>
+    </item>
+    <item>
+      <title>S4E02 w/ D.Empty ft. Ecstacy Kitty &amp; Captain Cooked</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E02 w/ D.Empty ft. Ecstacy Kitty &amp; Captain Cooked</description>
+      <pubDate>Sun, 19 Jul 2026 01:40:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E02%20w%E2%A7%B8%20D.Empty%20ft.%20Ecstacy%20Kitty%20%26%20Captain%20Cooked.mp3" length="182423300" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e02</guid>
+    </item>
+    <item>
+      <title>S4E03 w/ Obzerve ft. Victim</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E03 w/ Obzerve ft. Victim</description>
+      <pubDate>Sun, 19 Jul 2026 01:41:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E03%20w%E2%A7%B8%20Obzerve%20ft.%20Victim.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e03</guid>
+    </item>
+    <item>
+      <title>S4E04 w/ Samp3 2024 Aussie Producer wrap up</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E04 w/ Samp3 2024 Aussie Producer wrap up</description>
+      <pubDate>Sun, 19 Jul 2026 01:42:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E04%20w%E2%A7%B8%20Samp3%202024%20Aussie%20Producer%20wrap%20up.mp3" length="181343507" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e04</guid>
+    </item>
+    <item>
+      <title>S4E05 w/ D.Empty ft. Innominate &amp; Voodoo Sound</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E05 w/ D.Empty ft. Innominate &amp; Voodoo Sound</description>
+      <pubDate>Sun, 19 Jul 2026 01:43:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E05%20w%E2%A7%B8%20D.Empty%20ft.%20Innominate%20%26%20Voodoo%20Sound.mp3" length="230455095" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:02</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e05</guid>
+    </item>
+    <item>
+      <title>S4E06 w/ Obzerve ft. Athame + Optiv Tribute</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E06 w/ Obzerve ft. Athame + Optiv Tribute</description>
+      <pubDate>Sun, 19 Jul 2026 01:44:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E06%20w%E2%A7%B8%20Obzerve%20ft.%20Athame%20%2B%20Optiv%20Tribute.mp3" length="172034410" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:03</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e06</guid>
+    </item>
+    <item>
+      <title>S4E07 w/ DE LA HAYE ft. PHOBIK - live sets from HeadNoize pres. Victim NZ (Dec 2024)</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E07 w/ DE LA HAYE ft. PHOBIK - live sets from HeadNoize pres. Victim NZ (Dec 2024)</description>
+      <pubDate>Sun, 19 Jul 2026 01:45:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E07%20w%E2%A7%B8%20DE%20LA%20HAYE%20ft.%20PHOBIK%20-%20live%20sets%20from%20HeadNoize%20pres.%20Victim%20NZ%20%28Dec%202024%29.mp3" length="159838375" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:03:23</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e07</guid>
+    </item>
+    <item>
+      <title>S4E08 w/ Madison Smee ft. Badbitch Tiffany and T.Reks</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E08 w/ Madison Smee ft. Badbitch Tiffany and T.Reks</description>
+      <pubDate>Sun, 19 Jul 2026 01:46:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E08%20w%E2%A7%B8%20Madison%20Smee%20ft.%20Badbitch%20Tiffany%20and%20T.Reks.mp3" length="180262168" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:01:01</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e08</guid>
+    </item>
+    <item>
+      <title>S4E09 w/ Martian &amp; Talisman</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E09 w/ Martian &amp; Talisman</description>
+      <pubDate>Sun, 19 Jul 2026 01:47:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E09%20w%E2%A7%B8%20Martian%20%26%20Talisman.mp3" length="238510841" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:04:13</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e09</guid>
+    </item>
+    <item>
+      <title>S4E10 w/ D.Empty ft. Henderson Row</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E10 w/ D.Empty ft. Henderson Row</description>
+      <pubDate>Sun, 19 Jul 2026 01:48:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E10%20w%E2%A7%B8%20D.Empty%20ft.%20Henderson%20Row.mp3" length="179892935" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:17</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e10</guid>
+    </item>
+    <item>
+      <title>S4E11 w/ Obzerve ft. Clayton Hines - Renegade Hardware Special</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E11 w/ Obzerve ft. Clayton Hines - Renegade Hardware Special</description>
+      <pubDate>Sun, 19 Jul 2026 01:49:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E11%20w%E2%A7%B8%20Obzerve%20ft.%20Clayton%20Hines%20-%20Renegade%20Hardware%20Special.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e11</guid>
+    </item>
+    <item>
+      <title>S4E12 w/ Madison Smee ft. JaxxFae and conVergence</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E12 w/ Madison Smee ft. JaxxFae and conVergence</description>
+      <pubDate>Sun, 19 Jul 2026 01:50:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E12%20w%E2%A7%B8%20Madison%20Smee%20ft.%20JaxxFae%20and%20conVergence.mp3" length="170548916" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:52</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e12</guid>
+    </item>
+    <item>
+      <title>S4E13 ft. Skitzoid, Krux, Creatune &amp; Don Lemon + Kindred VA Vol. 1</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E13 ft. Skitzoid, Krux, Creatune &amp; Don Lemon + Kindred VA Vol. 1</description>
+      <pubDate>Sun, 19 Jul 2026 01:51:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E13%20ft.%20Skitzoid%2C%20Krux%2C%20Creatune%20%26%20Don%20Lemon%20%2B%20Kindred%20VA%20Vol.%201.mp3" length="299545076" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:04:49</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e13</guid>
+    </item>
+    <item>
+      <title>S4E14 w/ Madison Smee ft. Ashley Madison</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E14 w/ Madison Smee ft. Ashley Madison</description>
+      <pubDate>Sun, 19 Jul 2026 01:52:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E14%20w%E2%A7%B8%20Madison%20Smee%20ft.%20Ashley%20Madison.mp3" length="128796032" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1:57:57</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e14</guid>
+    </item>
+    <item>
+      <title>S4E15 w/ Obzerve ft. Mastervibe</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E15 w/ Obzerve ft. Mastervibe</description>
+      <pubDate>Sun, 19 Jul 2026 01:53:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E15%20w%E2%A7%B8%20Obzerve%20ft.%20Mastervibe.mp3" length="288114937" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:03</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e15</guid>
+    </item>
+    <item>
+      <title>S4E16 ft. Subversive Sound Takeover</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E16 ft. Subversive Sound Takeover</description>
+      <pubDate>Sun, 19 Jul 2026 01:54:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E16%20ft.%20Subversive%20Sound%20Takeover.mp3" length="178815488" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:05:04</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e16</guid>
+    </item>
+    <item>
+      <title>S4E17 w/ D.Empty</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E17 w/ D.Empty</description>
+      <pubDate>Sun, 19 Jul 2026 01:55:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E17%20w%E2%A7%B8%20D.Empty.mp3" length="236978602" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:03:25</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e17</guid>
+    </item>
+    <item>
+      <title>S4E18 w/ Madison Smee - LOCAL SHOWCASE</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E18 w/ Madison Smee - LOCAL SHOWCASE</description>
+      <pubDate>Sun, 19 Jul 2026 01:56:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E18%20w%E2%A7%B8%20Madison%20Smee%20-%20LOCAL%20SHOWCASE.mp3" length="170227953" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e18</guid>
+    </item>
+    <item>
+      <title>S4E19 w/ Obzerve ft. Audio Druid</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E19 w/ Obzerve ft. Audio Druid</description>
+      <pubDate>Sun, 19 Jul 2026 01:57:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E19%20w%E2%A7%B8%20Obzerve%20ft.%20Audio%20Druid.mp3" length="287999999" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e19</guid>
+    </item>
+    <item>
+      <title>S4E20 w/ D.Empty ft. Doe</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E20 w/ D.Empty ft. Doe</description>
+      <pubDate>Sun, 19 Jul 2026 01:58:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E20%20w%E2%A7%B8%20D.Empty%20ft.%20Doe.mp3" length="172162976" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:01:31</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e20</guid>
+    </item>
+    <item>
+      <title>S4E21 w/ Madison Smee ft. LUSTRE, 8ILL RENEAGDE AND K DIZZY</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E21 w/ Madison Smee ft. LUSTRE, 8ILL RENEAGDE AND K DIZZY</description>
+      <pubDate>Sun, 19 Jul 2026 01:59:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E21%20w%E2%A7%B8Madison%20Smee%20ft.%20LUSTRE%2C%208ILL%20RENEAGDE%20AND%20K%20DIZZY.mp3" length="167022022" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:24</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e21</guid>
+    </item>
+    <item>
+      <title>S4E22 w/ Obzerve ft. Reegze and Synonymix (Renegade Playground)</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E22 w/ Obzerve ft. Reegze and Synonymix (Renegade Playground)</description>
+      <pubDate>Sun, 19 Jul 2026 02:00:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E22%20w%E2%A7%B8%20Obzerve%20ft.%20Reegze%20and%20Synonymix%20%28Renegade%20Playground%29.mp3" length="192448474" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:19:17</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e22</guid>
+    </item>
+    <item>
+      <title>S4E23 w/ SAMp3 - THE BRISBANE DRUM N B4ZZZ SHOW FINAL EPISODE</title>
+      <description>The Brisbane Drum &amp; B4ZZZ Show S4E23 w/ SAMp3 - THE BRISBANE DRUM N B4ZZZ SHOW FINAL EPISODE</description>
+      <pubDate>Sun, 19 Jul 2026 02:01:00 +0000</pubDate>
+      <enclosure url="https://archive.org/download/tbdnbs-season4/home%2Fsam%2FDocuments%2FTBDNBS%20Conv%2FS4%2FTBDNBS%20S4E23%20w%E2%A7%B8%20SAMp3%20-%20THE%20BRISBANE%20DRUM%20N%20B4ZZZ%20SHOW%20FINAL%20EPISODE.mp3" length="163857827" type="audio/mpeg"/>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2:00:00</itunes:duration>
+      <guid isPermaLink="false">tbdnbs-s4e23</guid>
+    </item>
+
+  </channel>
+</rss>
